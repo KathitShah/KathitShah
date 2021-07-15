@@ -1,25 +1,15 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on trying to find a job
-- 🌱 I’m currently learning Java and PHP
-- 💬 Ask me about anything about myself
-- 📫 How to reach me: shahkathit16@gmail.com
-- 😄 Pronouns: me/him
-- ⚡ Fun fact: I love playing all types of sports including Cricket, Basketball, Volleyball, and Soccer
-
 ### Hi there, I'm Kathit 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://kathitshah.github.io/personal-websitev0.1/images/favicon.png)](https://bit.ly/kathitshah)
 
 
 ## I'm a Developer, and Student!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🌱 I’m currently learning languages that I didnt know of before (Java, and PHP)
+- 🥅 2021 Goals: Work for an amazing company for summer, help them and learn with them throughout my summer break
+- 📫 How to reach me: shahkathit16@gmail.com
+- 😄 Pronouns: me/him
+- ⚡ Fun fact: I love playing all types of sports including Cricket, Basketball, Volleyball, and Soccer
 
 ### Spotify Playing 🎧
 
