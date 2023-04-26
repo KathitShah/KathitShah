@@ -3,9 +3,9 @@
 ## I'm a Developer, and Student!!
 
 - 🌱 I’m currently learning languages that I didnt know of before (Java, and PHP)
-- 🥅 2021 Goals: Work for an amazing company for summer, help them and learn with them throughout my summer break
+- 🥅 2023 Goals: Work for an amazing company for summer, help them and learn with them throughout my summer break
 - 📫 How to reach me: shahkathit16@gmail.com
-- 😄 Pronouns: me/him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing all types of sports including Cricket, Basketball, Volleyball, and Soccer
 
 ### Connect with me:
