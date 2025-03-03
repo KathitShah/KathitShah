@@ -1,9 +1,9 @@
 ### Hi there, I'm Kathit <img src="https://kathitshah.github.io/personal-websitev0.1/images/favicon.png" data-canonical-src="https://kathitshah.github.io/personal-websitev0.1/images/favicon.png" width="25" height="25" /> 👋
 
-## I'm a Developer, and a First-year Engineering Student!!
+## I am a 2nd year Computer Engineering Co-Op Student!!
 
 - 🌱 I’m currently learning languages that I didnt know of before (Java, and PHP)
-- 🥅 2024 Goals: Work for an amazing company for summer, help them and learn with them throughout my summer break
+- 🥅 2025 Goals: Work for an amazing company for summer, help them and learn with them throughout my summer break
 - 📫 How to reach me: shahkathit16@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing all types of sports including Cricket, Basketball, Volleyball, and Soccer
