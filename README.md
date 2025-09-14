@@ -9,8 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="kathit.ca" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -61,5 +60,4 @@
 </details> -->
 
 [website]: https://bit.ly/kathitshah
-[twitter]: https://twitter.com/Kathit17
-[instagram]: https://www.instagram.com/kathits011/
+[linkedin]: https://www.linkedin.com/in/kathit-shah-aka-makwana-b72362217/
