@@ -60,4 +60,4 @@
 </details> -->
 
 [website]: https://bit.ly/kathitshah
-[linkedin]: https://www.linkedin.com/in/kathit-shah-aka-makwana-b72362217/
+[linkedin]: https://www.linkedin.com/in/kathit-shah-b72362217/
