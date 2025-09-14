@@ -23,7 +23,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" />
 <img align="left" alt="Dart" width="26px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G.jpg" />
-<img align="left" alt="Firebase" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vb06d4bce6b32c84cf01c36dffa546f7ea4ff7fc8fcd295737b014c1412e4d118/firebase/images/touchicon-180.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <!-- <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /> -->
 <!-- <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /> -->
